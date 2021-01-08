@@ -1,3 +1,17 @@
+/**
+ * Task
+ * Figure out what the program does.
+ * Implement the calculateHorsesFinished method.
+ * It must:
+ * 1. Calculate and return the number of horses that have finished. Use the isFinished() method.
+ * 2. If a horse has not yet crossed the finish line (!IsFinished()), then:
+ * 2.1. Display "Waiting for " + horse.getName().
+ * 2.2. Wait until it finishes the race. Think about what method you need to use to do this.
+ * 2.3. Not treat such a horse as finished.
+ */
+
+
+
 import java.util.ArrayList;
 import java.util.List;
 
